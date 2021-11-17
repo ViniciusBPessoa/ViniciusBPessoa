@@ -10,6 +10,9 @@ Social media:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusBPessoa&show_icons=true&theme=darcula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBPessoa&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/ViniciusBPessoa)
+
+
 
 #### Studying at UFRPE - Universidade federal rural de pernambuco🎓
 
@@ -18,5 +21,4 @@ Social media:
 [![GITHUB](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/ViniciusBPessoa)
 [![GITHUB](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/ViniciusBPessoa)
 [![GITHUB](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/ViniciusBPessoa)
-
 
