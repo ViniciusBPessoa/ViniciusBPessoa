@@ -17,7 +17,6 @@ Social media:
 #### Studying at UFRPE - Universidade federal rural de pernambuco🎓
 
 [![GITHUB](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ViniciusBPessoa)
-[![Generic badge](https://img.shields.io/badge/Python-Intermediary-purple.svg)](https://github.com/ViniciusBPessoa)
 [![GITHUB](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/ViniciusBPessoa)
 [![GITHUB](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/ViniciusBPessoa)
 [![GITHUB](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/ViniciusBPessoa)
