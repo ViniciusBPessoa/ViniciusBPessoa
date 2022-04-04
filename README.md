@@ -1,5 +1,5 @@
 
-### 💻Hallo, my name is Vinícius and a I'm studying computer science🖥️
+### 💻Hallo, my name is Vinícius and a I'm studying computer science 🖥️
 
 
 Social media:
