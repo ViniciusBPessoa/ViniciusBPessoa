@@ -2,7 +2,7 @@
 ### 💻Hallo, my name is Vinícius and a I'm studying computer science 🖥️
 
 
-Social media:
+#### Social media:
 
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusBPessoa)
 [![E-MAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRmXPWcVTZtSdWtzFkkCmqhBHXdMRHlhGdWjhSThhDGbMTzLDRcwhDZmScrxlLXFTfRJH)
@@ -20,5 +20,7 @@ Social media:
 [![GITHUB](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/ViniciusBPessoa)
 [![GITHUB](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/ViniciusBPessoa)
 [![GITHUB](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/ViniciusBPessoa)
-[![GITHUB](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/ViniciusBPessoa)
+[![GITHUB](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/ViniciusBPessoa)
+[![GITHUB](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ViniciusBPessoa)
+[![GITHUB](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ViniciusBPessoa)
 [![GITHUB](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/ViniciusBPessoa)
