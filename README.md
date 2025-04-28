@@ -1,10 +1,9 @@
 # 💻 Hello World! I'm Vinícius Pessoa 
-### Computer Science Student @ UFRPE 🎓 | Full-Stack Developer ⚡ | Tech Enthusiast 🚀
+### Computer Science Student @ UFRPE 🎓 | Tech Enthusiast 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/vinicius-bezerra-b0920b284/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusBPessoa)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinicius_ccbp/)
 
 ## 🔧 Technologies & Tools
 
@@ -46,14 +45,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBPessoa&layout=compact&theme=radical&hide_border=true&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
-## 🚀 Current Projects
-- 🔭 Working on a full-stack React/Node.js application
-- 🌱 Learning advanced algorithms in Go
-- 👯 Looking to collaborate on open-source projects
-- 🤔 Exploring functional programming with Haskell
-
 ## 📫 Let's Connect!
 I'm always open to interesting discussions about technology, collaborations, or new opportunities. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/vinicius-bezerra-b0920b284/))
