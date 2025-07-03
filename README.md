@@ -1,10 +1,9 @@
 # 💻 Hello World! I'm Vinícius Pessoa 
 ### Computer Science Student @ UFRPE 🎓 | Tech Enthusiast 🚀
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://portfoliopessoalvinicius.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-bezerra-b0920b284/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusBPessoa)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://portfoliopessoalvinicius.netlify.app/)
-
 
 ## 🔧 Technologies & Tools
 
